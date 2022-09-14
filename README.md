@@ -2,5 +2,5 @@
 **Minimum Version: Android 10+**  
 
 <p align="center">
-  <img src="screenshots/Screenshot_20220912-224358.png" height="800">
+  <img src="screenshots/Screenshot_20220914-221713.png" height="800">
 </p>
